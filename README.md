@@ -14,4 +14,5 @@ The Discount Analysis tab allows users to explore the relationship between disco
 
 ## Daily Sales Trends
 The Daily Sales Trends tab offers a time-series analysis of sales data, allowing users to track performance over specific periods. This section is crucial for understanding how sales fluctuate daily and identifying patterns related to seasonality, promotions, or other external factors. Users can filter data by various dimensions such as size, discount bracket, and region.
+
 <img width="676" alt="Daily Sales Trends" src="https://github.com/user-attachments/assets/ebed746c-d0c2-4dba-bbff-e18bc82dd849">
